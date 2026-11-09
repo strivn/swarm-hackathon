@@ -1,0 +1,41 @@
+[project]
+name = "swarm-study"
+version = "0.1.0"
+description = "Do agents use unauthorized workarounds when a task is impossible?"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=2.4.0",
+    "claude-agent-sdk>=0.2.179",
+    "openai>=3.45.0",
+    "scipy>=1.18.1",
+]
+
+[dependency-groups]
+dev = [
+    "pyrefly>=1.4.0",
+    "pytest>=9.2.0",
+    "pytest-bdd>=9.0.1",
+    "ruff>=0.17.3",
+]
+
+[tool.uv]
+# Run from the checkout; the study is not an installable package
+package = false
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint.per-file-ignores]
+# Prompt text keeps its natural line breaks
+"prompts.py" = ["E501"]
+
+[tool.pyrefly]
+# Read third-party packages from the project venv, not the hook's private one
+python-interpreter-path = ".venv/bin/python"
+
+[tool.pytest.ini_options]
+# Reject unregistered markers, so a typo like @pytest.mark.ruel fails
+addopts = "--strict-markers"
+markers = ["rule(text): the gherkin Rule this test supports"]
+testpaths = ["tests"]
+pythonpath = ["."]

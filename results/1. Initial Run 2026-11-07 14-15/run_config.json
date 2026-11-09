@@ -1,0 +1,109 @@
+{
+  "models": [
+    "claude-haiku-5-5",
+    "gpt-6-luna",
+    "glm-53-flash",
+    "gemma-4-26b-a4b-it",
+    "qwen3.8-27b"
+  ],
+  "settings": {
+    "models": {
+      "claude-haiku-5-5": {
+        "provider": "anthropic",
+        "model": "claude-haiku-5-5",
+        "request": {
+          "thinking": {
+            "type": "adaptive",
+            "display": "summarized"
+          },
+          "output_config": {
+            "effort": "medium"
+          },
+          "cache_control": {
+            "type": "ephemeral"
+          }
+        },
+        "base_url": null,
+        "api_key_env": "SWARM_PILOT_ANTHROPIC_KEY",
+        "concurrency": 16
+      },
+      "gpt-6-luna": {
+        "provider": "openai_compatible",
+        "model": "gpt-6-luna",
+        "request": {
+          "reasoning": {
+            "effort": "medium",
+            "summary": "detailed"
+          },
+          "store": false
+        },
+        "base_url": null,
+        "api_key_env": "SWARM_PILOT_OPENAI_KEY",
+        "concurrency": 16
+      },
+      "glm-53-flash": {
+        "provider": "openai_compatible",
+        "model": "glm-53-flash",
+        "request": {
+          "temperature": 1,
+          "store": false
+        },
+        "base_url": "https://api.prod.adaptionlabs.ai/api/v1",
+        "api_key_env": "PROJECT_ADAPTION_KEY",
+        "concurrency": 16
+      },
+      "gemma-4-26b-a4b-it": {
+        "provider": "openai_compatible",
+        "model": "gemma-4-26b-a4b-it",
+        "request": {
+          "temperature": 1,
+          "store": false
+        },
+        "base_url": "https://api.prod.adaptionlabs.ai/api/v1",
+        "api_key_env": "PROJECT_ADAPTION_KEY",
+        "concurrency": 16
+      },
+      "qwen3.8-27b": {
+        "provider": "openai_compatible",
+        "model": "qwen3.8-27b",
+        "request": {
+          "temperature": 1,
+          "reasoning": {
+            "effort": "medium"
+          },
+          "store": false
+        },
+        "base_url": "https://api.prod.adaptionlabs.ai/api/v1",
+        "api_key_env": "PROJECT_ADAPTION_KEY",
+        "concurrency": 16
+      }
+    },
+    "rejection_cap": 20,
+    "turn_cap": 40,
+    "follow_up_cap": 5,
+    "max_output_tokens": 8000,
+    "sessions_per_cell": {
+      "experiment": 60,
+      "control": 30
+    },
+    "smoke_sessions_per_cell": 4,
+    "schedule_seed": 20261107,
+    "request_timeout_seconds": 300,
+    "max_retries": 4,
+    "session_start_interval_seconds": 3,
+    "run_passes": 3,
+    "transcripts_dir": "transcripts"
+  },
+  "git_commit": "f3c3cc96d7f345aff708684760e20cb438dd242b",
+  "git_dirty": false,
+  "command": [
+    "python",
+    "-m",
+    "experiments.run",
+    "--experiment",
+    "single_agent",
+    "--name",
+    "Initial Run"
+  ],
+  "started": "2026-11-07T14:15:35+07:00"
+}

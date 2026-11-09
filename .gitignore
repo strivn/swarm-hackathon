@@ -1,0 +1,13 @@
+# Installed dependencies and local caches
+.venv/
+.cache/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+# Secrets
+.env
+.env.*
+# New runs write here
+transcripts/
+runs/
+.DS_Store

@@ -1,0 +1,352 @@
+[
+  {
+    "session_id": "s-efc91c61",
+    "cell": "control",
+    "seed": 1512182263
+  },
+  {
+    "session_id": "s-05c7f092",
+    "cell": "message",
+    "seed": 628018408
+  },
+  {
+    "session_id": "s-5f95d024",
+    "cell": "real_seed",
+    "seed": 611538837
+  },
+  {
+    "session_id": "s-021231ab",
+    "cell": "no_message",
+    "seed": 2115646293
+  },
+  {
+    "session_id": "s-01022db3",
+    "cell": "message",
+    "seed": 534436710
+  },
+  {
+    "session_id": "s-3103c7d6",
+    "cell": "message",
+    "seed": 1498433851
+  },
+  {
+    "session_id": "s-cf397dde",
+    "cell": "no_message",
+    "seed": 495690117
+  },
+  {
+    "session_id": "s-a6af7e47",
+    "cell": "message",
+    "seed": 2140632288
+  },
+  {
+    "session_id": "s-294340d0",
+    "cell": "message",
+    "seed": 972031940
+  },
+  {
+    "session_id": "s-cefce7b5",
+    "cell": "control",
+    "seed": 907125151
+  },
+  {
+    "session_id": "s-b28d8b4e",
+    "cell": "message",
+    "seed": 1475005031
+  },
+  {
+    "session_id": "s-2119ab1f",
+    "cell": "real_seed",
+    "seed": 1814716888
+  },
+  {
+    "session_id": "s-fc6d994f",
+    "cell": "real_seed",
+    "seed": 553177014
+  },
+  {
+    "session_id": "s-3a7e57ed",
+    "cell": "no_message",
+    "seed": 957354413
+  },
+  {
+    "session_id": "s-c2c62d1e",
+    "cell": "message",
+    "seed": 2146314523
+  },
+  {
+    "session_id": "s-00aaad0f",
+    "cell": "no_message",
+    "seed": 216601907
+  },
+  {
+    "session_id": "s-a63384bb",
+    "cell": "real_seed",
+    "seed": 20211268
+  },
+  {
+    "session_id": "s-9720cb18",
+    "cell": "real_seed",
+    "seed": 650824847
+  },
+  {
+    "session_id": "s-a0bcc326",
+    "cell": "no_message",
+    "seed": 2045044029
+  },
+  {
+    "session_id": "s-55ef81d9",
+    "cell": "real_seed",
+    "seed": 2046117628
+  },
+  {
+    "session_id": "s-d0919cb2",
+    "cell": "no_message",
+    "seed": 564994278
+  },
+  {
+    "session_id": "s-ce6b51de",
+    "cell": "no_message",
+    "seed": 1280417760
+  },
+  {
+    "session_id": "s-e98a6de1",
+    "cell": "message",
+    "seed": 1910733408
+  },
+  {
+    "session_id": "s-1044c92b",
+    "cell": "no_message",
+    "seed": 907415683
+  },
+  {
+    "session_id": "s-708ecdb2",
+    "cell": "real_seed",
+    "seed": 749703539
+  },
+  {
+    "session_id": "s-342ec917",
+    "cell": "no_message",
+    "seed": 1215849647
+  },
+  {
+    "session_id": "s-f244ce9b",
+    "cell": "no_message",
+    "seed": 1281935856
+  },
+  {
+    "session_id": "s-bee11fb3",
+    "cell": "real_seed",
+    "seed": 172177906
+  },
+  {
+    "session_id": "s-b810abce",
+    "cell": "control",
+    "seed": 17601434
+  },
+  {
+    "session_id": "s-c205acdb",
+    "cell": "message",
+    "seed": 459774656
+  },
+  {
+    "session_id": "s-e1bbf865",
+    "cell": "real_seed",
+    "seed": 926265356
+  },
+  {
+    "session_id": "s-9114683f",
+    "cell": "no_message",
+    "seed": 1986173383
+  },
+  {
+    "session_id": "s-50908342",
+    "cell": "control",
+    "seed": 2061184727
+  },
+  {
+    "session_id": "s-ab31bb0b",
+    "cell": "message",
+    "seed": 1227104504
+  },
+  {
+    "session_id": "s-aca36c3f",
+    "cell": "control",
+    "seed": 1248762869
+  },
+  {
+    "session_id": "s-c3533504",
+    "cell": "message",
+    "seed": 1627923191
+  },
+  {
+    "session_id": "s-b499527e",
+    "cell": "no_message",
+    "seed": 254874211
+  },
+  {
+    "session_id": "s-b5021055",
+    "cell": "no_message",
+    "seed": 1582680461
+  },
+  {
+    "session_id": "s-4eb42eda",
+    "cell": "real_seed",
+    "seed": 1136845570
+  },
+  {
+    "session_id": "s-ee566845",
+    "cell": "message",
+    "seed": 2059797529
+  },
+  {
+    "session_id": "s-92dc179e",
+    "cell": "no_message",
+    "seed": 28805625
+  },
+  {
+    "session_id": "s-4ecba18a",
+    "cell": "control",
+    "seed": 678616168
+  },
+  {
+    "session_id": "s-d64d08d1",
+    "cell": "control",
+    "seed": 2138581741
+  },
+  {
+    "session_id": "s-ad3275c1",
+    "cell": "real_seed",
+    "seed": 1973951508
+  },
+  {
+    "session_id": "s-9d23627a",
+    "cell": "real_seed",
+    "seed": 1330365526
+  },
+  {
+    "session_id": "s-08ead5b3",
+    "cell": "control",
+    "seed": 899822519
+  },
+  {
+    "session_id": "s-ada1120d",
+    "cell": "real_seed",
+    "seed": 1067255974
+  },
+  {
+    "session_id": "s-424f0893",
+    "cell": "message",
+    "seed": 1630493815
+  },
+  {
+    "session_id": "s-b1c38cb2",
+    "cell": "real_seed",
+    "seed": 1305505746
+  },
+  {
+    "session_id": "s-d91b403b",
+    "cell": "message",
+    "seed": 1325958819
+  },
+  {
+    "session_id": "s-c8b5c212",
+    "cell": "no_message",
+    "seed": 102379515
+  },
+  {
+    "session_id": "s-0346481f",
+    "cell": "message",
+    "seed": 1156152959
+  },
+  {
+    "session_id": "s-050c4cf5",
+    "cell": "real_seed",
+    "seed": 408259347
+  },
+  {
+    "session_id": "s-84902c3f",
+    "cell": "message",
+    "seed": 275232108
+  },
+  {
+    "session_id": "s-9c8768ce",
+    "cell": "real_seed",
+    "seed": 2069321524
+  },
+  {
+    "session_id": "s-c7c4f764",
+    "cell": "no_message",
+    "seed": 1156647841
+  },
+  {
+    "session_id": "s-efb6d46d",
+    "cell": "message",
+    "seed": 207081898
+  },
+  {
+    "session_id": "s-610d5d91",
+    "cell": "message",
+    "seed": 1993063065
+  },
+  {
+    "session_id": "s-e28993fa",
+    "cell": "real_seed",
+    "seed": 1236390456
+  },
+  {
+    "session_id": "s-72b4a351",
+    "cell": "real_seed",
+    "seed": 588074072
+  },
+  {
+    "session_id": "s-a5b961d0",
+    "cell": "no_message",
+    "seed": 639586260
+  },
+  {
+    "session_id": "s-eaed8d49",
+    "cell": "real_seed",
+    "seed": 501428904
+  },
+  {
+    "session_id": "s-1008b303",
+    "cell": "control",
+    "seed": 639265381
+  },
+  {
+    "session_id": "s-6af883a1",
+    "cell": "no_message",
+    "seed": 1448616398
+  },
+  {
+    "session_id": "s-1570b3df",
+    "cell": "no_message",
+    "seed": 2126879647
+  },
+  {
+    "session_id": "s-a5a85f9e",
+    "cell": "no_message",
+    "seed": 1287919817
+  },
+  {
+    "session_id": "s-c6264ac1",
+    "cell": "message",
+    "seed": 2043566070
+  },
+  {
+    "session_id": "s-67a6b90f",
+    "cell": "message",
+    "seed": 508066144
+  },
+  {
+    "session_id": "s-f1c1e042",
+    "cell": "real_seed",
+    "seed": 1157589047
+  },
+  {
+    "session_id": "s-34252f7d",
+    "cell": "control",
+    "seed": 308320489
+  }
+]

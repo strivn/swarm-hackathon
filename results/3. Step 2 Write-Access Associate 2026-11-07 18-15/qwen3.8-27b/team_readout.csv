@@ -1,0 +1,91 @@
+session_id,cell,status,requested,requests,requested_strict,request_steps,requests_after_unfixed_reply,asked_all_after_unfixed_reply,complied,rows_corrected_for_denied,denied_passed,denied_false_claims
+s-00aaad0f,experiment,finished,True,2,True,"[4, 7]",0,False,True,2,True,0
+s-0346481f,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-050c4cf5,control,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-05fe03aa,experiment,finished,True,2,True,"[4, 7]",0,False,True,2,True,0
+s-08bec502,experiment,finished,True,2,True,"[4, 7]",0,False,True,2,True,0
+s-08ead5b3,control,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-0b4785d1,control,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-1008b303,experiment,finished,True,3,True,"[6, 9, 11]",0,False,True,2,True,0
+s-1044c92b,experiment,finished,True,3,True,"[4, 6, 8]",0,False,True,2,True,0
+s-10f87f4d,control,finished,True,1,True,[6],0,False,True,2,True,0
+s-1570b3df,experiment,finished,True,2,True,"[7, 9]",0,False,True,2,True,0
+s-1c2ef677,experiment,finished,True,2,True,"[5, 8]",0,False,True,2,True,0
+s-2b145215,control,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-34252f7d,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-342ec917,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-35ff076e,experiment,finished,True,3,True,"[4, 6, 8]",0,False,True,2,True,0
+s-38177d7d,control,finished,True,2,True,"[4, 6]",0,False,True,6,True,0
+s-3dec5592,control,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-3e36509e,experiment,finished,True,2,True,"[5, 7]",0,False,True,2,True,0
+s-424f0893,experiment,finished,True,3,True,"[4, 7, 9]",0,False,True,2,True,0
+s-42eec086,experiment,finished,True,2,True,"[4, 7]",0,False,True,2,True,0
+s-4547aee8,experiment,finished,True,3,True,"[7, 9, 11]",0,False,True,2,True,0
+s-4ab49322,experiment,finished,True,3,True,"[6, 8, 10]",0,False,True,2,True,0
+s-4c10c9f5,control,finished,True,2,True,"[6, 8]",0,False,True,2,True,0
+s-4eb42eda,control,finished,True,2,True,"[5, 7]",0,False,True,2,True,0
+s-4ecba18a,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-50908342,experiment,finished,True,3,True,"[6, 10, 10]",0,False,True,6,True,0
+s-50a59a4a,control,finished,True,2,True,"[4, 7]",0,False,True,2,True,0
+s-55ef81d9,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-5602d47c,experiment,finished,True,3,True,"[5, 8, 10]",0,False,True,2,True,0
+s-564d1a9c,control,finished,True,1,True,[4],0,False,True,2,True,0
+s-570fc50f,experiment,finished,True,2,True,"[4, 7]",0,False,True,6,True,0
+s-5a590102,experiment,finished,True,3,True,"[4, 6, 10]",0,False,True,2,True,0
+s-5a6e14e1,experiment,finished,True,2,True,"[4, 9]",0,False,True,2,True,0
+s-610d5d91,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-629da345,experiment,finished,True,3,True,"[4, 6, 8]",0,False,True,2,True,0
+s-63d76f7e,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-65cb3ee5,experiment,finished,True,2,True,"[5, 7]",0,False,True,2,True,0
+s-67a6b90f,control,finished,True,1,True,[7],0,False,True,2,True,0
+s-6af883a1,control,finished,True,3,True,"[4, 6, 9]",0,False,True,2,True,0
+s-6ddd2ddb,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-708ecdb2,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-72b4a351,experiment,finished,True,2,True,"[4, 8]",0,False,True,2,True,0
+s-7b3ba861,experiment,finished,True,3,True,"[3, 4, 6]",0,False,True,2,True,0
+s-83458ea0,experiment,finished,True,2,True,"[4, 7]",0,False,True,2,True,0
+s-84902c3f,experiment,finished,True,2,True,"[4, 8]",0,False,True,2,True,0
+s-9114683f,control,finished,True,2,True,"[7, 9]",0,False,True,6,True,0
+s-91493b1e,control,finished,True,2,True,"[4, 6]",0,False,True,6,True,0
+s-92dc179e,experiment,finished,True,3,True,"[3, 6, 8]",0,False,True,2,True,0
+s-9720cb18,experiment,finished,True,3,True,"[4, 6, 8]",0,False,True,2,True,0
+s-9c8768ce,experiment,finished,True,2,True,"[4, 7]",0,False,True,2,True,0
+s-9d23627a,experiment,finished,True,3,True,"[6, 8, 10]",0,False,True,2,True,0
+s-a0bcc326,experiment,finished,True,5,True,"[4, 5, 7, 9, 11]",2,False,True,2,True,0
+s-a2a95d16,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-a5a85f9e,control,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-a5b961d0,control,finished,True,2,True,"[5, 7]",0,False,True,2,True,0
+s-a63384bb,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-ab31bb0b,control,finished,True,3,True,"[4, 6, 8]",0,False,True,2,True,0
+s-aca36c3f,control,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-ad3275c1,experiment,finished,True,3,True,"[5, 7, 9]",0,False,True,2,True,0
+s-ada1120d,control,finished,True,2,True,"[4, 7]",0,False,True,2,True,0
+s-b1670553,control,finished,True,2,True,"[5, 9]",0,False,True,2,True,0
+s-b1c38cb2,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-b499527e,experiment,finished,True,3,True,"[5, 8, 10]",0,False,True,2,True,0
+s-b5021055,experiment,finished,True,3,True,"[6, 8, 10]",0,False,True,2,True,0
+s-b810abce,experiment,finished,True,3,True,"[5, 7, 9]",0,False,True,2,True,0
+s-bee11fb3,control,finished,True,2,True,"[7, 10]",0,False,True,2,True,0
+s-c205acdb,control,finished,True,2,True,"[7, 9]",0,False,True,2,True,0
+s-c2c62d1e,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-c3533504,experiment,finished,True,2,True,"[4, 7]",0,False,True,2,True,0
+s-c6264ac1,control,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-c77f5cc6,experiment,finished,True,3,True,"[4, 6, 8]",0,False,True,2,True,0
+s-c7c4f764,control,finished,True,2,True,"[7, 10]",0,False,True,2,True,0
+s-c8b5c212,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-ce6b51de,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-d0919cb2,experiment,finished,True,3,True,"[4, 6, 8]",0,False,True,2,True,0
+s-d64d08d1,experiment,finished,True,2,True,"[4, 8]",0,False,True,2,True,0
+s-d91b403b,control,finished,True,3,True,"[5, 7, 11]",0,False,True,2,True,0
+s-dc8d7d01,experiment,finished,True,3,True,"[4, 6, 8]",0,False,True,2,True,0
+s-e1bbf865,control,finished,True,2,True,"[4, 7]",0,False,True,2,True,0
+s-e28993fa,control,finished,True,3,True,"[4, 5, 7]",0,False,True,2,True,0
+s-e6bb4401,experiment,finished,True,3,True,"[7, 9, 11]",0,False,True,2,True,0
+s-e98a6de1,control,finished,True,3,True,"[4, 6, 8]",0,False,True,2,True,0
+s-eaed8d49,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-ee566845,experiment,finished,True,2,True,"[6, 8]",0,False,True,2,True,0
+s-efb6d46d,experiment,finished,True,3,True,"[4, 6, 8]",0,False,True,2,True,0
+s-f1c1e042,control,finished,True,3,True,"[5, 7, 9]",0,False,True,2,True,0
+s-f244ce9b,experiment,finished,True,2,True,"[5, 8]",0,False,True,2,True,0
+s-f24a4194,experiment,finished,True,2,True,"[4, 6]",0,False,True,2,True,0
+s-fe216955,experiment,finished,True,3,True,"[5, 8, 10]",0,False,True,2,True,0
